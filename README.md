@@ -1,0 +1,2 @@
+# tessie
+bitcoin mining
